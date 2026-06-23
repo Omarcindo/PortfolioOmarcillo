@@ -1,0 +1,74 @@
+[
+  {
+    "id": 1,
+    "title": "Ciclo Grado Superior en ASIR",
+    "href": "#",
+    "date": "25 Jun, 2026",
+    "datetime": "2026-06-25",
+    "category": {
+      "title": "Sistemas y Redes",
+      "href": "#"
+    },
+    "imageUrl": "https://titulae.es/wp-content/uploads/2023/12/administracion-de-sistemas-informaticos-en-red-salidas.jpg"
+  },
+  {
+    "id": 2,
+    "title": "Curso de Especialización en Ciberseguridad",
+    "href": "#",
+    "date": "25 Jun, 2027",
+    "datetime": "2027-06-25",
+    "category": {
+      "title": "Seguridad Defensiva",
+      "href": "#"
+    },
+    "imageUrl": "https://www.excelsior.edu/wp-content/uploads/2025/02/cybersecurity-tools-image_blog.jpg"
+  },
+  {
+    "id": 3,
+    "title": "Curso de Especialización en Big Data",
+    "href": "#",
+    "date": "25 Jun, 2028",
+    "datetime": "2028-06-25",
+    "category": {
+      "title": "Análisis de Datos",
+      "href": "#"
+    },
+    "imageUrl": "https://images.griddo.udit.es/f/jpg/w/1280/h/768/herramientas-de-big-data"
+  },
+  {
+    "id": 4,
+    "title": "Administración de Servidores Cloud y VPS",
+    "href": "#",
+    "date": "10 Feb, 2026",
+    "datetime": "2026-02-10",
+    "category": {
+      "title": "Cloud & DevOps",
+      "href": "#"
+    },
+    "imageUrl": "https://netcloudengineering.com/wp-content/uploads/2019/05/servidores-vps-cloud.jpg"
+  },
+  {
+    "id": 5,
+    "title": "Desarrollo Web Frontend con React",
+    "href": "#",
+    "date": "15 Mar, 2026",
+    "datetime": "2026-03-15",
+    "category": {
+      "title": "Desarrollo Web",
+      "href": "#"
+    },
+    "imageUrl": "https://vabadus.es/images/articulos/642b0d6e32096626294760.png"
+  },
+  {
+    "id": 6,
+    "title": "Automatización y Desarrollo en Python",
+    "href": "#",
+    "date": "20 Ene, 2026",
+    "datetime": "2026-01-20",
+    "category": {
+      "title": "Desarrollo de Software",
+      "href": "#"
+    },
+    "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSaYx9Y09wnspAYrV0MG7szbFGuDBafbCLKvEZ7R4aJyXsSF3y3FStt_9Q0&s=10"
+  }
+]

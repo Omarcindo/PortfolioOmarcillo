@@ -1,0 +1,74 @@
+[
+  {
+    "id": 1,
+    "title": "Portfolio Web Minimalista",
+    "href": "#",
+    "date": "Jun 2026",
+    "datetime": "2026-06-20",
+    "category": {
+      "title": "Desarrollo Frontend",
+      "href": "#"
+    },
+    "imageUrl": "https://img.pccomponentes.com/pcblog/7053/mejores-portatiles-programar.jpg"
+  },
+  {
+    "id": 2,
+    "title": "Script de Filtrado Bursátil",
+    "href": "#",
+    "date": "May 2026",
+    "datetime": "2026-05-15",
+    "category": {
+      "title": "Python & Datos",
+      "href": "#"
+    },
+    "imageUrl": "https://images.ctfassets.net/q33z48p65a6w/5LF31HwIEE6OMLnMlNMzaT/138b47d2f6c1473689cd40060f1e9a51/maxim-hopman-fiXLQXAhCfk-unsplash.jpg?fl=progressive&fm=jpg&q=80&w=260"
+  },
+  {
+    "id": 3,
+    "title": "Infraestructura Multimedia con Jellyfin y Tailscale",
+    "href": "#",
+    "date": "Abr 2026",
+    "datetime": "2026-04-10",
+    "category": {
+      "title": "Sistemas Linux",
+      "href": "#"
+    },
+    "imageUrl": "https://www.ctrl.blog/media/hero/jellyfin.1280x720.png"
+  },
+  {
+    "id": 4,
+    "title": "Monitorización de Servidores con Netdata",
+    "href": "#",
+    "date": "Mar 2026",
+    "datetime": "2026-03-22",
+    "category": {
+      "title": "Redes y Monitoreo",
+      "href": "#"
+    },
+    "imageUrl": "https://images.g2crowd.com/uploads/attachment/file/1420262/Screenshot-2024-12-06-at-11.06.20-AM.png"
+  },
+  {
+    "id": 5,
+    "title": "Mantenimiento y Ensamblaje de Hardware",
+    "href": "#",
+    "date": "Feb 2026",
+    "datetime": "2026-02-18",
+    "category": {
+      "title": "Soporte IT",
+      "href": "#"
+    },
+    "imageUrl": "https://www.powernet.es/storage/buenas-practicas-de-mantenimiento-preventivo-en-ti-1712215525mPUJT.jpg"
+  },
+  {
+    "id": 6,
+    "title": "Despliegue de Entornos en VPS",
+    "href": "#",
+    "date": "Ene 2026",
+    "datetime": "2026-01-30",
+    "category": {
+      "title": "Cloud Computing",
+      "href": "#"
+    },
+    "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT-RHishr_m3njIsxzBUv4eNsZr9XS6_SkvEN4QUhQpWCCZPbGQrrUVrxw&s=10"
+  }
+]
