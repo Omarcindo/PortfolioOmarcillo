@@ -1,5 +1,5 @@
 import type { IOrdenador } from "@/model/interfaces/IOrdenador";
-import { OrdenadorItem } from "./ordenadorItem";
+import { OrdenadorItem } from "./OrdenadorItem";
 
 interface Props {
   pcs: IOrdenador[];
