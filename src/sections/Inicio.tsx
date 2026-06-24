@@ -41,7 +41,7 @@ export default function Inicio() {
               <div className="absolute -inset-2 rounded-3xl bg-indigo-100/50 blur-2xl"></div>
               
               <img
-                src="../../public/img/perfil.PNG" 
+                src="/img/perfil.PNG" 
                 alt="Omar - Perfil Técnico"
                 className="relative w-full rounded-2xl shadow-xl ring-1 ring-slate-900/5 object-cover aspect-[4/5] transition-transform duration-500 hover:-translate-y-2"
               />
