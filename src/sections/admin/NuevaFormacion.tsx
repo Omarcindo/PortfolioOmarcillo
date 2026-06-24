@@ -43,6 +43,7 @@ const NuevaFormacion = () => {
       setTimeout(() => setStatus('idle'), 3000);
     } else {
       setStatus('error');
+      console.log(Error)
     }
   };
 
